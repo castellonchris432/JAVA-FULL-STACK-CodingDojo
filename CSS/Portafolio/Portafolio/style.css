@@ -1,0 +1,225 @@
+*{
+margin: 0px;
+}
+
+#wrapper{
+    height: 900px;
+    width: 870px;
+    background-image: linear-gradient(0deg ,#1f0e13, #6f5964, #1f0e13);
+    top: 0px;
+    left: 0px;
+    margin: 0px auto;
+}
+
+#header{
+    height: 70px;
+    width: 870px;
+    background-color: #f8f8f8;
+    position: relative;
+    display: inline-block;
+}
+
+    h1{
+    display: inline-block;
+    position: relative;
+    left: 40px;
+    top: 10px;
+    font-family: cursive;
+    }
+    h2{
+    display: inline-block;
+    position: relative;
+    left: 310px;
+    top: 3px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+
+#main-content{
+    height: 240px;
+    width: 795px;
+    background-color: linear-gradient(160deg, #fcfbfc, #dccedb);
+    position: relative;
+    top: 20px;
+    left: 40px;
+}
+
+#navigation{
+    height: 445px;
+    width: 795px;
+    background-color: linear-gradient(160deg, #fcfbfc, #dccedb);
+    position: relative;
+    top: 40px;
+    left: 40px;
+}
+    
+    .navimg{
+        height:120px; 
+        width:252px;
+    }
+
+    h3{
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+
+footer{
+    height: 65px;
+    width: 870px;
+    background-color: #f8f8f8;
+    position: relative;
+    top: 80px;
+}
+
+.about{
+    display: inline-block;
+    vertical-align:top;
+    height: 240px;
+    width: 410px;
+    position: relative;
+    left: 20px;
+    background-image: linear-gradient(160deg, #fcfbfc, #dccedb);
+    font-size: 16px;
+}
+
+    .text{
+        margin-top: 0px;
+        margin-bottom: 0px;
+        padding: 5px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    .tittle{
+        background-image: linear-gradient(0deg, #b0b0b3, #8e8d99, #b0b0b3);
+        position: relative;
+        padding-left: 8px;
+        color: aliceblue;
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+
+.block1{
+    display:inline-block;
+    height:460px;
+    width: 252px;
+    vertical-align: top;
+    font-size: 15px;
+    background-image: linear-gradient(160deg, #fcfbfc, #dccedb);
+}
+.block2{
+    display: inline-block;
+    height:460px;
+    width: 252px;
+    position: relative;
+    left: 15px;
+    vertical-align: top;
+    font-size: 15px;
+    background-image: linear-gradient(160deg, #fcfbfc, #dccedb);
+}
+.block3{
+    display: inline-block;
+    height:460px;
+    width: 252px;
+    position: relative;
+    left: 30px;
+    vertical-align: top;
+    font-size: 15px;
+    background-image: linear-gradient(160deg, #fcfbfc, #dccedb);
+}
+.image{
+    border: 5px solid
+    #93919c;
+    width:350px; 
+    height:230px;
+}
+
+.text1{
+    margin-top: 0px;
+    margin-bottom: 69px;
+    padding: 5px;
+}
+.text2{
+    margin-top: 0px;
+    margin-bottom: 35px;
+    padding: 5px;
+}
+.text3{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 5px;
+}
+
+a{
+    padding-left: 5px;
+    color: #1f0e13;
+}
+
+.img1{
+    height:30px; 
+    width:30px;
+    margin-top: 8px;
+    margin-left: 15px;
+}
+
+.img2{
+    height:30px;
+    width:30px;
+    margin-top: 8px;
+    margin-left: 15px;
+}
+
+.img3{
+    height:30px;
+    width:30px;
+    margin-top: 8px;
+    margin-left: 15px;
+}
+
+button{
+    height: 20px;
+    width: 80px;
+    border: 1px solid black;
+    padding-top: 0px;
+    position: relative;
+    margin-left: 85px;
+    margin-top: 5px;
+    font-size: 9px;
+    background-color: #407d61;
+    color: whitesmoke;
+    border-radius: 50px;
+    text-decoration: none
+}
+
+.correo{
+    display: inline-block;
+    position: relative;
+    margin-left: 333px;
+    margin-top: 5px;
+    margin-bottom: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+}
+.num{
+    display: inline-block;
+    position: relative;
+    margin-top: 5px;
+    margin-bottom: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+}
+
+.fimgs{
+margin-left: 265px;
+margin-top: 0px;
+}
+
+.footimgs{
+    height:20px;
+    width:20px;
+}
+
+.flink{
+position: relative;
+bottom: 5px;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 13px;
+}
