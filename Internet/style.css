@@ -1,0 +1,125 @@
+*{
+    outline: 1px dotted red;
+    margin: 0px;
+}
+
+#wrapper{
+    height: 700px;
+    width: 940px;
+    background-color: aliceblue;
+}
+
+/* header */
+
+    header >img{
+        height: 80px;
+        width: 80px;
+        display: inline-block;
+        position: absolute;
+    }
+    header >h1{
+        display: inline-block;
+        vertical-align: top;
+        margin-left: 80px;
+        margin-top: 8px;
+        font-size: 50px;
+    }
+    header >h1 >span{
+        color: #22659e;
+    }
+    header >h2{
+        height: 40px;
+        width: 925px;
+        background-color: #306da2;
+        color: aliceblue;
+        padding-top: 5px;
+        padding-left: 15px;
+        font-size: 30px;
+    }
+
+/* nav */
+nav{
+    height: 510px;
+    width: 200px;
+    display: inline-block;
+}
+nav >h4{
+    margin-top: 30px;
+    margin-left: 3px;
+    display: inline-block;
+}
+nav >p{
+    margin-top: 15px;
+    margin-left: 3px;
+    font-size: 15px;
+    display: inline-block;
+}
+.navb{
+width: 180px;
+margin-top: 25px;
+margin-left: 8px;
+border-radius: 5px;
+color: whitesmoke;
+background-color: #306da2;
+display: inline-block;
+}
+.navb2{
+    width: 180px;
+    margin-top: 4px;
+    margin-left: 8px;
+    margin-bottom: 30px;
+    border-radius: 5px;
+    color: whitesmoke;
+    background-color: #ef7500;
+    display: inline-block;
+}
+
+nav >.backimg{
+    height: 300px;
+    width: 200px;
+    display: block;
+    position: absolute;
+    margin-top: 10px;
+}
+nav >h2{
+    width: 200px;
+    display: block;
+    position: absolute;
+    color: aliceblue;
+    text-align: center;
+    font-size: 25px;
+    margin-top: 20px;
+}
+nav >.ninjaimg{
+    display: block;
+    position: absolute;
+    height: 100px;
+    width: 70px;
+    margin-top: 110px;
+    margin-left: 65px;
+}
+nav >.navb3{
+    display: block;
+    position: absolute;
+    width: 180px;
+    height: 30px;
+    margin-top: 230px;
+    margin-left: 10px;
+    background-color: #00c3df;
+    color: white;
+    border-radius: 5px;
+}
+
+/* main */
+.top{
+    display: inline-block;
+    margin-left: 300px;
+}
+    .top >.home{
+        height: 30px;
+        width: 30px;
+    }
+    .top >.phone{
+        height: 30px;
+        width: 30px;
+    }
